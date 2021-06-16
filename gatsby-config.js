@@ -25,6 +25,9 @@ module.exports = {
       resolve: "@plasmicapp/loader/gatsby",
       options: {
         projects: ["4rRjJBDqbJu5P9BrfPUQ2a"],
+        substitutions: {
+  components:  [{ name: 'IFrame', path: 'src/components/Iframe.jsx' }],
+}
       },
     },
   ],
