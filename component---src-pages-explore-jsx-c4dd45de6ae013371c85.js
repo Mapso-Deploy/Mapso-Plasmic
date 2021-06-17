@@ -1,0 +1,2 @@
+(self.webpackChunkmapso_codegen_v2=self.webpackChunkmapso_codegen_v2||[]).push([[912],{3777:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return o}});var r=n(7294),c=n(3508);function o(){return r.createElement(c.ZP,{projectId:"4rRjJBDqbJu5P9BrfPUQ2a",component:"Explore",componentProps:{iFrame:{wrap:function(e){return r.createElement("iframe",{title:"blog",src:"https://cascadr.co/blogs/cozykev",width:"100%",height:"100%",allowFullScreen:!0})}}}})}}}]);
+//# sourceMappingURL=component---src-pages-explore-jsx-c4dd45de6ae013371c85.js.map
