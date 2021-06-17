@@ -18,6 +18,7 @@
     "@plasmicapp/loader": "^0.0.56",
     "gatsby": "^3.6.2",
     "gatsby-plugin-sitemap": "^4.3.1",
+    "gatsby-source-graphql": "^3.7.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }

@@ -6,5 +6,8 @@
       "projectApiToken": "0QIJotIiv4UbOg6RvOl64R7N3VQ7VVOgjZ6UineLEjVWmm6llJFj85F8Z3sS0qLMQbB5aytTSrW8PWaQ"
     }
   ],
-  "$schema": "./node_modules/@plasmicapp/loader/plasmic-loader.schema.json"
+  "$schema": "./node_modules/@plasmicapp/loader/plasmic-loader.schema.json",
+  "substitutions": {
+    "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" }]
+  }
 }
