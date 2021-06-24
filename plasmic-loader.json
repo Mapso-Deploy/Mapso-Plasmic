@@ -8,6 +8,6 @@
   ],
   "$schema": "./node_modules/@plasmicapp/loader/plasmic-loader.schema.json",
   "substitutions": {
-    "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" }]
+    "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" }, { "name": "Header", "path": "src/components/header.jsx" }, { "name": "pageBackground", "path": "src/components/pageBackground.jsx" }]
   }
 }
