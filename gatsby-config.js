@@ -26,7 +26,7 @@ module.exports = {
       options: {
         projects: ["4rRjJBDqbJu5P9BrfPUQ2a"],
         substitutions: {
-  components:  [{ name: 'IFrame', path: 'src/components/Iframe.jsx' }],
+          "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" }, { "name": "Header", "path": "src/components/Header.jsx" }, { "name": "Page Background", "path": "src/components/PageBackground.jsx" }],
 }
       },
     },
