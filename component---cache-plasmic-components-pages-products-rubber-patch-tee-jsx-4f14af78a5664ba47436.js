@@ -1,0 +1,2 @@
+(self.webpackChunkmapso_codegen_v2=self.webpackChunkmapso_codegen_v2||[]).push([[781],{2992:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return u}});var c=t(7294),r=t(1881);function u(){return c.createElement(r.ZP,{projectId:"4rRjJBDqbJu5P9BrfPUQ2a",component:"ProductsRubberPatchTee"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-rubber-patch-tee-jsx-4f14af78a5664ba47436.js.map
