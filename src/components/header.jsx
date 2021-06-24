@@ -1,6 +1,9 @@
 import * as React from "react";
 import PlasmicLoader from '@plasmicapp/loader';
 
+
+function Header_(props, ref) {
+
 return <PlasmicLoader
   component="Header"
   componentProps={{
