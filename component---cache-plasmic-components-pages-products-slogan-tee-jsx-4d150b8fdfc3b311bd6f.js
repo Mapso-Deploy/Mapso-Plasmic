@@ -1,2 +1,0 @@
-(self.webpackChunkmapso_codegen_v2=self.webpackChunkmapso_codegen_v2||[]).push([[806],{6244:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return r}});var c=t(7294),o=t(1068);function r(){return c.createElement(o.ZP,{projectId:"4rRjJBDqbJu5P9BrfPUQ2a",component:"ProductsSloganTee"})}}}]);
-//# sourceMappingURL=component---cache-plasmic-components-pages-products-slogan-tee-jsx-4d150b8fdfc3b311bd6f.js.map
