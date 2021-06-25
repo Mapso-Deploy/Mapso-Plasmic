@@ -2,7 +2,7 @@ import * as React from "react";
 import PlasmicLoader from '@plasmicapp/loader';
 
 
-function Header_(props, ref) {
+export default function Header(props) {
 
 return <PlasmicLoader
 component="Header"
