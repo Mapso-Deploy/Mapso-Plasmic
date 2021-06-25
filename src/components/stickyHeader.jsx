@@ -2,9 +2,9 @@ import * as React from "react";
 import PlasmicLoader from '@plasmicapp/loader';
 
 
-export default function Header(props) {
+export default function stickyHeader(props) {
 
-return <PlasmicLoader
+return ( <PlasmicLoader
 component="Header"
 componentProps={{
 style: {
@@ -13,9 +13,6 @@ top: 0,
 zIndex: 999
 }
 }}
-/>;
+/>
+);
 }
-
-const Header = React.forwardRef(Header_);
-
-export default Header;
