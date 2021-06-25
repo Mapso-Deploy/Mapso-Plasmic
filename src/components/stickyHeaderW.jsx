@@ -7,6 +7,7 @@ export default function stickyHeader(props) {
 return ( <PlasmicLoader
 component="Header"
 componentProps={{
+    white: true
 style: {
 position: 'sticky',
 top: 0,
