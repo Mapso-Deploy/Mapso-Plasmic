@@ -28,7 +28,7 @@ module.exports = {
         substitutions: {
           "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" },
           { "name": "Header", "path": "src/components/stickyHeader.jsx" },
-          { "name": "Header", "path": "src/components/stickyHeaderW.jsx" }],
+          { "name": "Header White", "path": "src/components/stickyHeaderW.jsx" }],
 }
       },
     },
