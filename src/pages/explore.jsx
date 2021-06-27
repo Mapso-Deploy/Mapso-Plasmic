@@ -25,7 +25,7 @@ export default function PageComponent() {
       component="Explore"
       componentProps={{
         iFrame: {
-          wrap: (content) => <div style={{marginTop: -120, height: "150%", marginLeft: -2}}> <Iframe url="https://cascadr.co/blogs/cozykev"
+          wrap: (content) => <div style={{marginTop: -120, height: "115%", marginLeft: -2, position: 'sticky'}}> <Iframe url="https://cascadr.co/blogs/cozykev"
           title= "Mapso Blog"
           width="100%"
           height="100%"
@@ -35,7 +35,11 @@ export default function PageComponent() {
           display="initial"
           loading="lazy"
           position="relative"/> </div> 
-        }
+        },
+        style: {
+          position: 'sticky',
+          top: 0
+          }
       }}
     />
 }
